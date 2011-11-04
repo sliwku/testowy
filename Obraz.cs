@@ -14,6 +14,7 @@ namespace testowaZ
         public override string Wyswietl()
         {
             return "Wyswietlam";
+            // i to jak wyswietlam
         }
 
        
