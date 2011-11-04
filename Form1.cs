@@ -27,6 +27,7 @@ namespace testowaZ
             Dzwiek plikDzwiekowy = new Dzwiek();
             Dzwiek plikDzwiekowy2 = new Dzwiek();
             Obraz plikBitmapa = new Obraz();
+            //dodanie funkcjonalnosci
 
             OtworzPlik(plikDzwiekowy2);
             OtworzPlik(plikBitmapa);
