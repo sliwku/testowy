@@ -5,6 +5,9 @@ using System.Text;
 
 namespace testowaZ
 {
+    /// <summary>
+    /// Opis klasy
+    /// </summary>
     abstract class Plik
     {
         public virtual string Otworz()
