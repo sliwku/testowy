@@ -1,0 +1,9 @@
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\testowaZ.Form1.resources
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\testowaZ.Properties.Resources.resources
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\bin\Debug\testowaZ.exe
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\bin\Debug\testowaZ.pdb
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\testowaZ.exe
+c:\users\sliwku\documents\visual studio 2010\Projects\testowaZ\testowaZ\obj\x86\Debug\testowaZ.pdb
